@@ -1,0 +1,82 @@
+[
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Una tienda ofrece un descuento del 20% en todos sus productos. Si un artículo cuesta $50 antes del descuento, ¿cuánto costará después del descuento?",
+        "respuesta": "45",
+        "incorrecta1": "42",
+        "incorrecta2": "40",
+        "incorrecta3": "48"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En una clase de 30 estudiantes, el 60% son mujeres. ¿Cuántos estudiantes son hombres?",
+        "respuesta": "12",
+        "incorrecta1": "15",
+        "incorrecta2": "18",
+        "incorrecta3": "20"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Un teléfono móvil se vende con un margen de beneficio del 25% sobre el costo de producción. Si el costo de producción es de $200, ¿cuál es el precio de venta?",
+        "respuesta": "$250",
+        "incorrecta1": "$225",
+        "incorrecta2": "$275",
+        "incorrecta3": "$300"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En una encuesta, el 75% de los participantes afirmaron que prefieren el color azul. Si 240 personas participaron en la encuesta, ¿cuántas prefieren el color azul?",
+        "respuesta": "180",
+        "incorrecta1": "150",
+        "incorrecta2": "120",
+        "incorrecta3": "200"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En una tienda, todos los productos tienen un aumento de precio del 15% durante la temporada navideña. Si un producto cuesta originalmente $80, ¿cuánto costará durante la temporada navideña?",
+        "respuesta": "$92",
+        "incorrecta1": "$100",
+        "incorrecta2": "$90",
+        "incorrecta3": "$85"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "Una inversión experimentó un crecimiento del 8% en el último año. Si el valor de la inversión al comienzo del año era de $5000, ¿cuál será su valor al final del año?",
+        "respuesta": "$5400",
+        "incorrecta1": "$5200",
+        "incorrecta2": "$5600",
+        "incorrecta3": "$5800"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En una tienda, todos los productos tienen un descuento del 30% en el día de inauguración. Si un producto cuesta originalmente $120, ¿cuánto costará en el día de inauguración?",
+        "respuesta": "$108",
+        "incorrecta1": "$84",
+        "incorrecta2": "$90",
+        "incorrecta3": "$100"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "El salario de Juan aumentó en un 12%. Si su salario original era de $1500, ¿cuál será su nuevo salario?",
+        "respuesta": "$1620",
+        "incorrecta1": "$1680",
+        "incorrecta2": "$1720",
+        "incorrecta3": "$1800"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En un restaurante, el 40% de los platos del menú son vegetarianos. Si hay 25 platos en el menú, ¿cuántos son vegetarianos?",
+        "respuesta": "15",
+        "incorrecta1": "8",
+        "incorrecta2": "10",
+        "incorrecta3": "12"
+    },
+    {
+        "categoria": "Matemáticas",
+        "pregunta": "En una competencia de atletismo, un corredor mejoró su tiempo en un 5% con respecto a la carrera anterior. Si su tiempo anterior fue de 40 segundos, ¿cuál será su nuevo tiempo?",
+        "respuesta": "39 segundos",
+        "incorrecta1": "38 segundos",
+        "incorrecta2": "41 segundos",
+        "incorrecta3": "42 segundos"
+    }
+]
